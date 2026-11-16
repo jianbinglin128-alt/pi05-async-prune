@@ -1,0 +1,12 @@
+# Tested evaluator versions; install after uv sync.
+robosuite==1.4.1
+mujoco==2.3.7
+numba==0.61.2
+numpy==1.26.4
+torchvision==0.22.1
+PyOpenGL==3.1.7
+glfw
+easydict
+pyyaml
+bddl
+gym==0.26.2
